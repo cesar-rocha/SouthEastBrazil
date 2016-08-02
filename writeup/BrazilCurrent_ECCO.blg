@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: BrazilCurrent_ECCO.aux
+The style file: chicago.bst
+Database file #1: BCECCO.bib.bib
+Warning--page numbers missing in silveira_etal2004
+You've used 3 entries,
+            2861 wiz_defined-function locations,
+            635 strings with 5654 characters,
+and the built_in function-call counts, 2790 in all, are:
+= -- 196
+> -- 302
+< -- 0
++ -- 96
+- -- 96
+* -- 311
+:= -- 525
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 31
+chr.to.int$ -- 3
+cite$ -- 4
+duplicate$ -- 52
+empty$ -- 123
+format.name$ -- 108
+if$ -- 509
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 3
+newline$ -- 18
+num.names$ -- 30
+pop$ -- 22
+preamble$ -- 1
+purify$ -- 49
+quote$ -- 0
+skip$ -- 52
+stack$ -- 0
+substring$ -- 106
+swap$ -- 17
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 1
+while$ -- 21
+width$ -- 0
+write$ -- 41
+(There was 1 warning)
